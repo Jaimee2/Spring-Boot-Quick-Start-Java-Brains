@@ -14,7 +14,7 @@ Mini proyecto para practicar ORM Hibernate
 
 ![image](https://user-images.githubusercontent.com/52107919/187658240-77a96972-f85a-41fa-8907-76cba247ef20.png)
 
-##Tablas BBDD
+## Tablas BBDD
 
 Dos tablas: Topics <--> Courses con una relación de Uno a muchos.
 
